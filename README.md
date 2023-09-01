@@ -16,7 +16,7 @@ This is a solution to the [3-column preview card component challenge on Frontend
 
 ## Overview
   <b> Scored 97% In Google Page Insight </b>
-  https://pagespeed.web.dev/analysis/https-tolux-stats-preview-card-netlify-app/avau43obho?form_factor=mobile
+  https://pagespeed.web.dev/analysis/https-tolux-column-preview-card-netlify-app/g3gyf5iy5r?form_factor=mobile
 
 
 ### The challenge
@@ -36,8 +36,8 @@ You can use a tool like [FireShot](https://getfireshot.com/) to take the screens
 
 ### Links
 
-- Solution URL: [Frontend Mentor](https://your-solution-url.com)
-- Live Site URL: [Live Site URl](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/reponsive-page-built-using-css-flexbox-9b0qGZjlgh)
+- Live Site URL: [Live Site URl](https://tolux-column-preview-card.netlify.app/)
 
 ## My process
 
