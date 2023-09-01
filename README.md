@@ -15,8 +15,8 @@ This is a solution to the [3-column preview card component challenge on Frontend
 - [Author](#author)
 
 ## Overview
-  <b> Scored 100% In Google Page Insight </b>
-  ![Google Page Insight](design/google-page-insight.jpg)
+  <b> Scored 97% In Google Page Insight </b>
+  https://pagespeed.web.dev/analysis/https-tolux-stats-preview-card-netlify-app/avau43obho?form_factor=mobile
 
 
 ### The challenge
